@@ -1,0 +1,5 @@
+C:\Users\drmoh\IdeaProjects\MusicPlayerApp\src\assets\QadiatAmAhmed.mp3
+C:\Users\drmoh\IdeaProjects\MusicPlayerApp\src\assets\Champion.mp3
+C:\Users\drmoh\IdeaProjects\MusicPlayerApp\src\assets\testTube.mp3
+C:\Users\drmoh\IdeaProjects\MusicPlayerApp\src\assets\quizTest.mp3
+C:\Users\drmoh\IdeaProjects\MusicPlayerApp\src\assets\winnerDay.mp3
