@@ -12,7 +12,7 @@ A simple Java-based music player application with a graphical user interface (GU
 ## Installation
 1. Clone the repository to your local machine.
 2. Open the project in your preferred Java IDE.
-3. Compile and run the `MusicPlayerGUI.java` file.
+3. Compile and run the `All Classes.java` files.
 
 ## Usage
 1. Click "Load Song" to select an MP3 file.
